@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I have a 6 year streak steak on the language learning app Duolingo**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jennifer-oettinger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jennifer-oettinger" height="30" width="40" /></a>
 </p>
