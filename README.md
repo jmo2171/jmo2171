@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jennifer Oettinger</h1>
 <h3 align="center">A computer science student at Columbia Unviersity</h3>
 
-- 🌱 I’m currently learning in **artificial intelligence, natural language processing, computer science theory, partial differential equations, and game theory classes**
+- 🌱 I’m currently learning in **machine learning, databases, and statistics**
 
 - 🔭 I am interested in **software engineering and artificial intelligence**
 
